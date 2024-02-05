@@ -22,7 +22,8 @@
 
 #
 ## Chrome Driver
-#### Download: https://googlechromelabs.github.io/chrome-for-testing/
+#### Download Google Chrome: https://www.google.com/intl/id_id/chrome/
+#### Download Chrome Driver: https://googlechromelabs.github.io/chrome-for-testing/
 
 Find **Google Chrome** Version:
 - Click on three-dot button on top-right corner, then find 'Settings'
