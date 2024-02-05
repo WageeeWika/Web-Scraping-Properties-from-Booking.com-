@@ -73,6 +73,11 @@ Chrome Driver adalah bagian dari proyek Chrome WebDriver yang dikembangkan oleh 
 
 Dalam konteks web scraping, Chrome Driver dapat digunakan bersama dengan Selenium, sebuah framework otomatisasi browser, untuk mengotomatisasi tindakan di browser dan mengekstrak data dari halaman web.
 
+#
+# Get Started
+Preparation and Installation: https://github.com/WageeeWika/Web-Scraping-Properties-from-Booking.com-/blob/main/ReadMe_Preparation%20and%20Installation.md
+New Project: 
+
 
 
 
