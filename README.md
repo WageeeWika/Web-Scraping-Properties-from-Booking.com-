@@ -1,7 +1,9 @@
 # Web-Scraping-Properties-from-Booking.com-
 
-Software: PyCharm
-Chrome Driver Version () Download disini https://googlechromelabs.github.io/chrome-for-testing/
+**Software**: PyCharm
+
+Chrome Driver download disini https://googlechromelabs.github.io/chrome-for-testing/
+
   My Google Chrome Version:
   ![image](https://github.com/WageeeWika/Web-Scraping-Properties-from-Booking.com-/assets/119421544/a85f3016-bcbb-4fd0-bf23-b44713a935b6)
 
