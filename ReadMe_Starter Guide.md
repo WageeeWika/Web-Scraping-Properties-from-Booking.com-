@@ -23,14 +23,20 @@
 - if you find the code like in the image below (Importing library or Package in this case), then you should hover using pointer on the red-underlined word.
 After that click on '_Install Package ..._'
 - Or click on '_Python Package_' at the bottom, then find the pacakage that is missing in your file
+
+![image](https://github.com/WageeeWika/Web-Scraping-Properties-from-Booking.com-/assets/119421544/9fffcc18-aac4-40de-8682-f54ef28171ce)
+
 - if there is still or new error pops up, then you should install '_setuptools_' first
 - Open your '_Terminal_' (Bottom menu), copy this code and press enter
 ```bash
   pip install setuptools
 ```
 - Wait until installation process done
-- After installation success, then you can do step 1 and 2 again
+- After installation success, then you can do step 1 or 2 again
 
-![image](https://github.com/WageeeWika/Web-Scraping-Properties-from-Booking.com-/assets/119421544/9fffcc18-aac4-40de-8682-f54ef28171ce)
+## Execute Python File
+- First, make sure which python file you want to execute/run by checking on top-right like in the image below
+- Then choose '_Current File_'
+- After that click on '_Run_' button on the right or press Shift + F10 on keyboard
 
-## 
+![image](https://github.com/WageeeWika/Web-Scraping-Properties-from-Booking.com-/assets/119421544/383dfd1c-2d56-4d84-87b4-2896fd5fbf95)
