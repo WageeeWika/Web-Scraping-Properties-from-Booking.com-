@@ -75,11 +75,9 @@ Dalam konteks web scraping, Chrome Driver dapat digunakan bersama dengan Seleniu
 
 #
 # Get Started
-**Preparation and Installation**: https://github.com/WageeeWika/Web-Scraping-Properties-from-Booking.com-/blob/main/ReadMe_Preparation%20and%20Installation.md
+- **Preparation and Installation**: https://github.com/WageeeWika/Web-Scraping-Properties-from-Booking.com-/blob/main/ReadMe_Preparation%20and%20Installation.md
 
-**Starter Guide**: https://github.com/WageeeWika/Web-Scraping-Properties-from-Booking.com-/blob/main/ReadMe_Starter%20Guide.md
-
-
+- **Starter Guide**: https://github.com/WageeeWika/Web-Scraping-Properties-from-Booking.com-/blob/main/ReadMe_Starter%20Guide.md
 
 
 
