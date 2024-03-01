@@ -36,7 +36,7 @@ Find **Google Chrome** Version:
 
 - Search and Download **Chrome Driver** Version based on your **Google Chrome** version (Otherwise will cause an error while scraping)
 - Copy and paste it in new tab, then the download will start
-- Then you can put the downloaded Chrome Driver wherever you like in your directory, so you can easily remember and call it in your code (For example inside _C:\Program Files\*here_)
+- Then you can put the downloaded Chrome Driver wherever you like in your directory, so you can easily remember and call it in your code (For example _C:\Program Files\ChromeDriver_)
 ![Screenshot 2024-02-05 140702](https://github.com/WageeeWika/Web-Scraping-Properties-from-Booking.com-/assets/119421544/59acdacd-e1ae-459d-aaf1-03338717241c)
 
 
